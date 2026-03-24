@@ -24,11 +24,11 @@ The list will be continuously updated...
 
 <a name="rp" />
 
-## Review Paper
+## 📖 Review Paper
 
 <a name="rp-pdd" />
 
-### Peptide-based drug design
+### 🌲Peptide-based drug design
 
 | ID | Title | Journal | Year | DOI |
 |----|------|---------|------|-----|
@@ -37,7 +37,7 @@ The list will be continuously updated...
 
 <a name="rp-amp" />
 
-### Antimicrobial peptide
+### 🦠Antimicrobial peptide
 
 | ID | Title | Journal | Year | DOI |
 |----|:-----|---------|------|-----|
