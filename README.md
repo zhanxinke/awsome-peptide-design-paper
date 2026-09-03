@@ -23,9 +23,13 @@ For detailed content, please navigate through the sections listed in Contents ab
 
 ## 🌟🌟 Star History
 
-[[![Star History Chart][https://www.star-history.com/?repos=zhanxinke%2Fawesome-peptide-paper&type=date&legend=top-left](https://www.star-history.com/?repos=zhanxinke%2Fawesome-peptide-paper&type=date&legend=top-left)]
-
-
+<a href="https://www.star-history.com/?repos=zhanxinke%2Fawesome-peptide-paper&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=zhanxinke/awesome-peptide-paper&type=date&theme=dark&legend=top-left&sealed_token=UCIuN1558E0DWQ2cFVEQL7HgxzOFzst21-eN6wz4yTJ-02vC1yzAmFn18ghu3sC_GRGyjm6eHLJbDwM1gzRU68Ar0ZUUWJRsZQGAshnTGdx6L5Q5vZyRBIiV2RiSF2n14TzfNlUf7GElpAvRI_0PbVv0rF9e1I8M0xy3NfVJYiA0N6KcZOgGnNTpLgLH" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=zhanxinke/awesome-peptide-paper&type=date&legend=top-left&sealed_token=UCIuN1558E0DWQ2cFVEQL7HgxzOFzst21-eN6wz4yTJ-02vC1yzAmFn18ghu3sC_GRGyjm6eHLJbDwM1gzRU68Ar0ZUUWJRsZQGAshnTGdx6L5Q5vZyRBIiV2RiSF2n14TzfNlUf7GElpAvRI_0PbVv0rF9e1I8M0xy3NfVJYiA0N6KcZOgGnNTpLgLH" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=zhanxinke/awesome-peptide-paper&type=date&legend=top-left&sealed_token=UCIuN1558E0DWQ2cFVEQL7HgxzOFzst21-eN6wz4yTJ-02vC1yzAmFn18ghu3sC_GRGyjm6eHLJbDwM1gzRU68Ar0ZUUWJRsZQGAshnTGdx6L5Q5vZyRBIiV2RiSF2n14TzfNlUf7GElpAvRI_0PbVv0rF9e1I8M0xy3NfVJYiA0N6KcZOgGnNTpLgLH" />
+ </picture>
+</a>
 
 
 <!-- - [Papers](#papers)
