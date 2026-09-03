@@ -1,9 +1,3 @@
-<!--
- * @Author: X
--->
-<!--
- * @Author: X
--->
 # Awesome-peptide-paper
 
 This repository is a curated collection of research papers (with DOIs) related to peptide design.
@@ -29,7 +23,7 @@ For detailed content, please navigate through the sections listed in Contents ab
 
 ## 🌟🌟 Star History
 
-[[![Star History Chart](https://www.star-history.com/?repos=zhanxinke%2Fawesome-peptide-paper&type=date&legend=top-left)]
+[[![Star History Chart][https://www.star-history.com/?repos=zhanxinke%2Fawesome-peptide-paper&type=date&legend=top-left](https://www.star-history.com/?repos=zhanxinke%2Fawesome-peptide-paper&type=date&legend=top-left)]
 
 
 
